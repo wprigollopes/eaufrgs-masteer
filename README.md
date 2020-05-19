@@ -1,6 +1,10 @@
-UFRGS TeX Users Group
-=====================
+Fork do projeto UFRGS TeX Users Group
+=====================================
 
+Este projeto contém o modelo TeX do Instituto de informática e sofreu algumas adaptações para atender à Escola de Administração da UFRGS. Deve-se utilizar o document.tex como exemplo de partida.
+
+Info original
+-------------
 Estes arquivos compoem o pacote de estilos LaTeX de documentos para o INF/UFRGS. 
 
 Várias classes de documentos são disponibilizadas, como por exemplo:
